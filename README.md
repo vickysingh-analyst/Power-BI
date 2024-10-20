@@ -1,5 +1,4 @@
 Power BI Sales Dashboard
 
-[Portfolio Dashboard] (Awesome Chocolates Power BI Dashboard.pdf)
+![Sales Dashboard](https://github.com/user-attachments/assets/78ea01b0-354f-4f5d-9488-052a872e6b1c)
 
-[Portfolio Dashboard](Sales Dashboard.png)
